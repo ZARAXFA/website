@@ -1,3 +1,4 @@
+![Uploading IMG_20231120_142142.jpg…]()
 ---
 title: Getting started
 titleTemplate: Guides
